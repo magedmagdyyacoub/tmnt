@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "../components/Header";
+
 import QuizComponent from "../components/QuizComponent";
 import FanArtWall from "../components/FanArtWall";
 import PizzaBuilder from "../components/PizzaBuilder";
 import DonnieLab from '../components/DonnieLab';
 import TMNTSoundboard from '../components/TMNTSoundboard';
 import RetroGallery from '../components/RetroGallery';
-import Footer from "../components/Footer";
+
 import "../styles/fanzone.css"; // تأكد من وجود الملف أو أنشئه بنفسك
 
 export default function FanZone() {
